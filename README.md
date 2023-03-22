@@ -1,1 +1,2 @@
-## https://chegivara887.github.io/rsschool-cv/cv
+- MD - https://chegivara887.github.io/rsschool-cv/cv
+- HTML - https://chegivara887.github.io/rsschool-cv/
